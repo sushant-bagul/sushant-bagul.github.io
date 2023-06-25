@@ -2,7 +2,6 @@
 
 # Sushant Ashok Bagul
 New Panvel, Maharashtra
-[+91-8530718501](tel:+918530718501) | [bagulsushant.sit.it@gmail.com](mailto:bagulsushant.sit.it@gmail.com) | [LinkedIn](https://linkedin.com/in/sushant-bagul) | [GitHub](https://github.com/Sushant1209)
 
 ## EDUCATION
 
