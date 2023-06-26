@@ -1,4 +1,7 @@
 
+
+
+
 ## EDUCATION
 
 - **Bachelor of Engineering in Information Technology** - Sinhgad Institute of Technology, Lonavala (August 2019 -- June 2023)
