@@ -64,6 +64,6 @@
 - Programming Languages: Java, Linux
 - Web Technologies and Cloud: HTML, CSS, Microsoft Azure
 - Database Management: MySQL
-- Developer Tools: VS Code, Visual Studio
-- Operating System: Windows
+- Developer Tools: Eclipse, VS Code, Visual Studio
+- Operating System: Windows, Ubuntu
 
