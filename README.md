@@ -12,17 +12,15 @@
 
 ## EXPERIENCE
 
-- [**Smartbridge**](https://smartinternz.com/internships/salesforce_certificates/4b5b81483048c8942ed00caaa17b9535) 
+- [**Smartbridge**](https://smartinternz.com/internships/salesforce_certificates/4b5b81483048c8942ed00caaa17b9535)  (April 2022 -- June 2022 - Virtual)
   - **Salesforce Developer**
-  - April 2022 -- June 2022
-  - Virtual
    - In this internship, I have learned about Salesforce Fundamentals, Organizational Setup, Relationship, Process Automation, Flows Security, Apex, VS Code Setup CLI Setup, and Lightning Web Components API.
    - Based on my learning, I have completed two super badges, **Apex Specialist** and **Process Automation Specialist**.
    - [Trailhead Profile](https://trailblazer.me/id/sushant-bagul)
  
      
-- [**Microsoft Future Ready Talent**](https://drive.google.com/file/d/14p6cRvEo6U6p_R4WfLoSRYM5U1R8H2tV/view?usp=sharing) (October 2021 -- December 2021)
-  - Future Ready Talent - Virtual
+- [**Microsoft Future Ready Talent**](https://drive.google.com/file/d/14p6cRvEo6U6p_R4WfLoSRYM5U1R8H2tV/view?usp=sharing) (October 2021 -- December 2021 - Virtual)
+  - **Future Ready Talent** 
   - Completed 190 hours of learning about cloud computing, cyber security, artificial intelligence, and data from [Microsoft Learn.](https://docs.microsoft.com/en-us/users/sb-4405/collections)
   - Developed a "Synopser - Text Summarization WebApp" and deployed it on Microsoft Azure
   - Technologies used: Visual Studio Code, Python (Flask framework), HTML, CSS
