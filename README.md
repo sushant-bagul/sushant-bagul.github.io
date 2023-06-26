@@ -22,7 +22,7 @@
 - [**Microsoft Future Ready Talent**](https://drive.google.com/file/d/14p6cRvEo6U6p_R4WfLoSRYM5U1R8H2tV/view?usp=sharing) (October 2021 -- December 2021 - Virtual)
   - **Future Ready Talent** 
   - Completed 190 hours of learning about cloud computing, cyber security, artificial intelligence, and data from [Microsoft Learn.](https://docs.microsoft.com/en-us/users/sb-4405/collections)
-  - Developed a **"Synopser - Text Summarization WebApp"** and deployed it on Microsoft Azure
+  - Developed a **"Synopser - Text Summarization WebApp"** and deployed it on Microsoft Azure.
   - Technologies used: Visual Studio Code, Python (Flask framework), HTML, CSS
   - [Live site here](https://synopser.azurewebsites.net/)
 
@@ -30,7 +30,7 @@
 
 - [**Railway Management System**](https://github.com/Sushant1209/Railway-Management-System) - Python, MySQL
   - Developed a Railway Reservation System using **Python** and **MySQL** as the backend.
-  - Users can perform tasks such as **booking a ticket, canceling a booked ticket, checking fares, and checking their bookings.**
+  - Users can perform tasks such as **booking a ticket, cancelling a booked ticket, checking fares, and checking their bookings.**
 
 - [**Text Editor**](https://github.com/Sushant1209/TextEditor) - Java Swing
   - Text Editor is a free app that allows you to create, open, and edit text files on your computer.
