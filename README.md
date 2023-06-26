@@ -4,11 +4,13 @@
 
 - **Bachelor of Engineering in Information Technology** - Sinhgad Institute of Technology, Lonavala (August 2019 -- June 2023)
   - SGPA: 8.31
-  - Pune, Maharashtra
 
 - **CBSE - XII Science** - Jawahar Navodaya Vidyalaya, Nizampur-Raigad (April 2018 -- May 2019)
   - Percentage: 69.6%
-  - Raigad, Maharashtra
+ 
+- **CBSE - X** - Jawahar Navodaya Vidyalaya, Nizampur-Raigad (May 2017)
+  - Percentage: 86.2%
+
 
 ## EXPERIENCE
 
