@@ -28,17 +28,17 @@
 
 ## PROJECTS
 
-- [**Railway Management System**](https://github.com/Sushant1209/Railway-Management-System) - **Python, MySQL**
-  - Developed a Railway Reservation System using Python and MySQL as the backend.
+- [**Railway Management System**](https://github.com/Sushant1209/Railway-Management-System) - Python, MySQL
+  - Developed a Railway Reservation System using **Python** and **MySQL** as the backend.
   - Users can perform tasks such as **booking a ticket, canceling a booked ticket, checking fares, and checking their bookings.**
 
-- [**Text Editor**](https://github.com/Sushant1209/TextEditor) - **Java Swing**
+- [**Text Editor**](https://github.com/Sushant1209/TextEditor) - Java Swing
   - Text Editor is a free app that allows you to create, open, and edit text files on your computer.
-  - Added **background themes** option and manual **font size selection** using Java Swing.
+  - Added **background themes** option and manual **font size selection** using **Java Swing.**
 
 - [**Speaky - Text to Speech Synthesis**](https://github.com/Sushant1209/Text_To_Speech) - Python
   - Speaky is a text-to-speech synthesis developed using the **Tkinter GUI.**
-  - Converts input **text into speech** using the pyttsx3 library in Python.
+  - Converts input **text into speech** using the pyttsx3 library in **Python.**
 
 ## PROFILES
 
