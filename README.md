@@ -17,22 +17,22 @@
 ### [Cognizant](https://drive.google.com/file/d/1MOVe1sSVTi5y5fQ9HPnBwG-TTolBwaEY/view)
 **Intern - ICP Java** | Mumbai, Maharashtra | May 2023 – August 2023
  - Acquired hands-on training to collaborate with Cognizant’s Digital Experience Java Team.
- - Tech Stacks Used: HTML, CSS, Java, MySQL, Maven, Spring MVC with Spring Boot
- - Built a dynamic web application for online college admission management with student application and seat allotment features using JSP, MySQL, and Spring Boot.
+ - **Tech Stacks Used:** HTML, CSS, Java, MySQL, Maven, Spring MVC with Spring Boot
+ - Built a dynamic web application for online college admission management with student application and seat allotment features using **JSP, MySQL,** and **Spring Boot.**
 
 
 ### [Smartbridge](https://smartinternz.com/internships/salesforce_certificates/4b5b81483048c8942ed00caaa17b9535)  
 **Salesforce Developer** | Virtual | April 2022 – June 2022
-   - In this internship, I have learned about Salesforce Fundamentals, Organizational Setup, Relationship, Process Automation, Flows Security, Apex, VS Code Setup CLI Setup, and Lightning Web Components API.
+   - In this internship, I have learned about **Salesforce Fundamentals, Organizational Setup, Relationship, Process Automation, Flows Security, Apex, VS Code Setup CLI Setup,** and **Lightning Web Components API.**
    - Based on my learning, I have completed two super badges, **Apex Specialist** and **Process Automation Specialist**.
    - [Trailhead Profile](https://trailblazer.me/id/sushant-bagul)
  
      
 ### [Microsoft](https://drive.google.com/file/d/14p6cRvEo6U6p_R4WfLoSRYM5U1R8H2tV/view?usp=sharing)
 **Future Ready Talent** | Virtual | October 2021 – December 2021
-  - Completed 190 hours of learning about cloud computing, cyber security, artificial intelligence, and data from [Microsoft Learn.](https://docs.microsoft.com/en-us/users/sb-4405/collections)
-  - Developed a **"Synopser - Text Summarization WebApp"** and deployed it on Microsoft Azure.
-  - Technologies used: Visual Studio Code, Python (Flask framework), HTML, CSS
+  - Completed 190 hours of learning about **cloud computing, cyber security, artificial intelligence,** and **data** from [Microsoft Learn.](https://docs.microsoft.com/en-us/users/sb-4405/collections)
+  - Developed a **"Synopser - Text Summarization WebApp"** and deployed it on **Microsoft Azure.**
+  - **Technologies used:** Visual Studio Code, Python (Flask framework), HTML, CSS
   - [Live site here](https://synopser.azurewebsites.net/)
 
 ## PROJECTS
@@ -52,10 +52,16 @@
 ## PROFILES
 
 - [Credly](https://www.credly.com/users/sushant-bagul)
+  - Here you can see the digital badges I've earned for my skills and achievements.
 - [Leetcode](https://leetcode.com/sush_at_leetcode/)
+  - My solutions to various coding problems.
 - [GeeksforGeeks](https://auth.geeksforgeeks.org/user/sush_at_gfg/practice)
+  - Practice problems and learning resources I've used.
 - [Microsoft Learn](https://docs.microsoft.com/en-us/users/sb-4405/)
+  - Microsoft's training platform where I've completed several learning paths and modules.
 - [Trailhead](https://trailblazer.me/id/sushant-bagul)
+  - My Salesforce learning journey.
+
 
 ## ACHIEVEMENTS
 
@@ -70,9 +76,9 @@
 
 ## SKILLS
 
-- Programming Languages: Java, Linux
-- Web Technologies and Cloud: HTML, CSS, Spring Boot, Microsoft Azure
-- Database Management: MySQL
-- Developer Tools: Eclipse, VS Code, Visual Studio
-- Operating System: Windows, Ubuntu
+- **Programming Languages:** Java, Linux
+- **Web Technologies and Cloud:** HTML, CSS, Spring Boot, Microsoft Azure
+- **Database Management:** MySQL
+- **Developer Tools:** Eclipse, VS Code
+- **Operating System:** Windows
 
