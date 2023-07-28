@@ -21,15 +21,15 @@
  - Built a dynamic web application for online college admission management with student application and seat allotment features using JSP, MySQL, and Spring Boot.
 
 
-- [**Smartbridge**](https://smartinternz.com/internships/salesforce_certificates/4b5b81483048c8942ed00caaa17b9535)  (April 2022 -- June 2022 - Virtual)
-  - **Salesforce Developer**
+### Smartbridge(https://smartinternz.com/internships/salesforce_certificates/4b5b81483048c8942ed00caaa17b9535)  
+  - **Salesforce Developer** | Virtual | April 2022 – June 2022
    - In this internship, I have learned about Salesforce Fundamentals, Organizational Setup, Relationship, Process Automation, Flows Security, Apex, VS Code Setup CLI Setup, and Lightning Web Components API.
    - Based on my learning, I have completed two super badges, **Apex Specialist** and **Process Automation Specialist**.
    - [Trailhead Profile](https://trailblazer.me/id/sushant-bagul)
  
      
-- [**Microsoft Future Ready Talent**](https://drive.google.com/file/d/14p6cRvEo6U6p_R4WfLoSRYM5U1R8H2tV/view?usp=sharing) (October 2021 -- December 2021 - Virtual)
-  - **Future Ready Talent** 
+### Microsoft (https://drive.google.com/file/d/14p6cRvEo6U6p_R4WfLoSRYM5U1R8H2tV/view?usp=sharing)
+  - **Future Ready Talent** | Virtual | October 2021 – December 2021
   - Completed 190 hours of learning about cloud computing, cyber security, artificial intelligence, and data from [Microsoft Learn.](https://docs.microsoft.com/en-us/users/sb-4405/collections)
   - Developed a **"Synopser - Text Summarization WebApp"** and deployed it on Microsoft Azure.
   - Technologies used: Visual Studio Code, Python (Flask framework), HTML, CSS
@@ -39,7 +39,7 @@
 
 - [**Railway Management System**](https://github.com/Sushant1209/Railway-Management-System) - Python, MySQL
   - Developed a Railway Reservation System using **Python** and **MySQL** as the backend.
-  - Users can perform tasks such as **booking a ticket, cancelling a booked ticket, checking fares, and checking their bookings.**
+  - Users can perform tasks such as **booking a ticket, canceling a booked ticket, checking fares, and checking their bookings.**
 
 - [**Text Editor**](https://github.com/Sushant1209/TextEditor) - Java Swing
   - Text Editor is a free app that allows you to create, open, and edit text files on your computer.
