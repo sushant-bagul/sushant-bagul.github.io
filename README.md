@@ -3,7 +3,7 @@
 ## EDUCATION
 
 - **Bachelor of Engineering in Information Technology** - Sinhgad Institute of Technology, Lonavala (August 2019 -- June 2023)
-  - SGPA: 8.31
+  - SGPA: 8.38
 
 - **CBSE - XII Science** - Jawahar Navodaya Vidyalaya, Nizampur-Raigad (April 2018 -- May 2019)
   - Percentage: 69.6%
@@ -13,6 +13,13 @@
 
 
 ## EXPERIENCE
+
+### Cognizant
+-**Intern - ICP Java** | Mumbai, Maharashtra | May 2023 – August 2023
+ - Acquired hands-on training to collaborate with Cognizant’s Digital Experience Java Team.
+ - Tech Stacks Used: HTML, CSS, Java, MySQL, Maven, Spring MVC with Spring Boot
+ - Built a dynamic web application for online college admission management with student application and seat allotment features using JSP, MySQL, and Spring Boot.
+
 
 - [**Smartbridge**](https://smartinternz.com/internships/salesforce_certificates/4b5b81483048c8942ed00caaa17b9535)  (April 2022 -- June 2022 - Virtual)
   - **Salesforce Developer**
@@ -64,7 +71,7 @@
 ## SKILLS
 
 - Programming Languages: Java, Linux
-- Web Technologies and Cloud: HTML, CSS, Microsoft Azure
+- Web Technologies and Cloud: HTML, CSS, Spring Boot, Microsoft Azure
 - Database Management: MySQL
 - Developer Tools: Eclipse, VS Code, Visual Studio
 - Operating System: Windows, Ubuntu
