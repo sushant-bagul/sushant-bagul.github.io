@@ -3,13 +3,13 @@
 ## EDUCATION
 
 - **Bachelor of Engineering in Information Technology** - Sinhgad Institute of Technology, Lonavala (August 2019 -- June 2023)
-  - SGPA: 8.38
+  - CGPA: **8.38**
 
-- **CBSE - XII Science** - Jawahar Navodaya Vidyalaya, Nizampur-Raigad (April 2018 -- May 2019)
-  - Percentage: 69.6%
+- **CBSE - XII Science** - Jawahar Navodaya Vidyalaya, Raigad (April 2018 -- May 2019)
+  - Percentage: **69.6%**
  
-- **CBSE - X** - Jawahar Navodaya Vidyalaya, Nizampur-Raigad (May 2017)
-  - Percentage: 86.2%
+- **CBSE - X** - Jawahar Navodaya Vidyalaya, Raigad (May 2017)
+  - Percentage: **86.2%**
 
 
 ## EXPERIENCE
