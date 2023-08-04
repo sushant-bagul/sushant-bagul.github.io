@@ -2,10 +2,12 @@
 
 ## EDUCATION
 
-- **Master of Technology in Computer Engineering (with specialization in Network Infrastructure Management Systems)** -  Veermata Jijabai Technological Institute (VJTI), Mumbai (August 2023 -- June 2025)
+- **Master of Technology in Computer Engineering (with specialization in Network Infrastructure Management Systems)**
+-  Veermata Jijabai Technological Institute (VJTI), Mumbai (August 2023 -- June 2025)
   - Mumbai, Maharashtra
 
-- **Bachelor of Engineering in Information Technology** - Sinhgad Institute of Technology, Lonavala (August 2019 -- June 2023)
+- **Bachelor of Engineering in Information Technology**
+- Sinhgad Institute of Technology, Lonavala (August 2019 -- June 2023)
   - CGPA: **8.38**
 
 - **CBSE - XII Science** - Jawahar Navodaya Vidyalaya, Raigad (April 2018 -- May 2019)
