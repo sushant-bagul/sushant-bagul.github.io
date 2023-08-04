@@ -3,25 +3,25 @@
 ## EDUCATION
 
 - **Master of Technology in Computer Engineering (with specialization in Network Infrastructure Management Systems)**
-   </br>
+   <br>
    Veermata Jijabai Technological Institute (VJTI), Mumbai
-  </br>
+  <br>
    (August 2023 -- June 2025)
 
 - **Bachelor of Engineering in Information Technology**
-  </br>
+  <br>
    Sinhgad Institute of Technology, Lonavala
-   </br>
+   <br>
   (August 2019 -- June 2023)
   - CGPA: **8.38**
 
 - **CBSE - XII Science**
-  </br>
+  <br>
   Jawahar Navodaya Vidyalaya, Raigad (May 2019)
   - Percentage: **69.6%**
  
 - **CBSE - X**
-  </br>
+  <br>
   Jawahar Navodaya Vidyalaya, Raigad (May 2017)
   - Percentage: **86.2%**
 
