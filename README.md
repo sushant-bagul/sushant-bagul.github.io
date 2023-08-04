@@ -1,11 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <title>Portfolio - Sushant Bagul</title>
-  <link rel="icon" href="/Sushant.png" type="image/x-icon">
-</head>
-<body>
-
 <h1 align="center">PORTFOLIO</h1>
 
 ## EDUCATION
@@ -104,7 +96,5 @@
 - **Developer Tools:** Eclipse, VS Code
 - **Operating System:** Windows
 
-</body>
-</html>
 
 
