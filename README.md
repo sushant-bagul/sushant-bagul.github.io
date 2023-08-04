@@ -1,4 +1,7 @@
-<title>Sushant Bagul</title>
+<head>
+  <title>Sushant Bagul</title>
+  <link rel="icon" type="image/x-icon" href="/Sushant.png">
+</head>
 
 <h1 align="center">PORTFOLIO</h1>
 
