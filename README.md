@@ -3,22 +3,26 @@
 ## EDUCATION
 
 - **Master of Technology in Computer Engineering (with specialization in Network Infrastructure Management Systems)**
-   <br>
+   </br>
    Veermata Jijabai Technological Institute (VJTI), Mumbai
-  <br>
+  </br>
    (August 2023 -- June 2025)
 
 - **Bachelor of Engineering in Information Technology**
-  <br>
+  </br>
    Sinhgad Institute of Technology, Lonavala
-   <br>
+   </br>
   (August 2019 -- June 2023)
   - CGPA: **8.38**
 
-- **CBSE - XII Science** - Jawahar Navodaya Vidyalaya, Raigad (May 2019)
+- **CBSE - XII Science**
+  </br>
+  Jawahar Navodaya Vidyalaya, Raigad (May 2019)
   - Percentage: **69.6%**
  
-- **CBSE - X** - Jawahar Navodaya Vidyalaya, Raigad (May 2017)
+- **CBSE - X**
+  </br>
+  Jawahar Navodaya Vidyalaya, Raigad (May 2017)
   - Percentage: **86.2%**
 
 
@@ -47,15 +51,15 @@
 
 ## PROJECTS
 
-- [**Railway Management System**](https://github.com/Sushant1209/Railway-Management-System) - Python, MySQL
+- [**Railway Management System**](https://github.com/Sushant1209/Railway-Management-System) | Python, MySQL
   - Developed a Railway Reservation System using **Python** and **MySQL** as the backend.
   - Users can perform tasks such as **booking a ticket, canceling a booked ticket, checking fares, and checking their bookings.**
 
-- [**Text Editor**](https://github.com/Sushant1209/TextEditor) - Java Swing
+- [**Text Editor**](https://github.com/Sushant1209/TextEditor) | Java Swing
   - Text Editor is a free app that allows you to create, open, and edit text files on your computer.
   - Added **background themes** option and manual **font size selection** using **Java Swing.**
 
-- [**Speaky - Text to Speech Synthesis**](https://github.com/Sushant1209/Text_To_Speech) - Python
+- [**Speaky - Text to Speech Synthesis**](https://github.com/Sushant1209/Text_To_Speech) | Python
   - Speaky is a text-to-speech synthesis developed using the **Tkinter GUI.**
   - Converts input **text into speech** using the pyttsx3 library in **Python.**
 
