@@ -9,7 +9,7 @@
    (August 2023 -- June 2025)
 
 - **Bachelor of Engineering in Information Technology**
-- <br>
+  <br>
    Sinhgad Institute of Technology, Lonavala
    <br>
   (August 2019 -- June 2023)
