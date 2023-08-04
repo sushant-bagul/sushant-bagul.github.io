@@ -1,3 +1,5 @@
+<title>Sushant Bagul</title>
+
 <h1 align="center">PORTFOLIO</h1>
 
 ## EDUCATION
