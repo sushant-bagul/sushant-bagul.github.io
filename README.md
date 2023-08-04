@@ -1,7 +1,10 @@
+<!DOCTYPE html>
+<html>
 <head>
-  <title>Sushant Bagul</title>
-  <link rel="icon" type="image/x-icon" href="/Sushant.png">
+  <title>Portfolio - Sushant Bagul</title>
+  <link rel="icon" href="/Sushant.png" type="image/x-icon">
 </head>
+<body>
 
 <h1 align="center">PORTFOLIO</h1>
 
@@ -100,4 +103,8 @@
 - **Database Management:** MySQL
 - **Developer Tools:** Eclipse, VS Code
 - **Operating System:** Windows
+
+</body>
+</html>
+
 
