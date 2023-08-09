@@ -91,7 +91,7 @@
 ## SKILLS
 
 - **Programming Languages:** Java, Linux
-- **Web Technologies and Cloud:** HTML, CSS, Spring Boot, Microsoft Azure
+- **Web Technologies and Cloud:** HTML, CSS, Spring MVC with Spring Boot, Microsoft Azure
 - **Database Management:** MySQL
 - **Developer Tools:** Eclipse, VS Code
 - **Operating System:** Windows
