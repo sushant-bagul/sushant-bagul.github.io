@@ -11,4 +11,5 @@ description: >
   <a href="mailto:bagulsushant.sit.it@gmail.com">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  theme: jekyll-theme-minimal
 
