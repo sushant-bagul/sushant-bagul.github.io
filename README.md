@@ -30,7 +30,7 @@
 
 ### [Cognizant](https://drive.google.com/file/d/1MOVe1sSVTi5y5fQ9HPnBwG-TTolBwaEY/view)
 **Intern - ICP Java** | Mumbai, Maharashtra | May 2023 – August 2023
- - Acquired hands-on training to collaborate with Cognizant’s Digital Experience Java Team.
+ - Gained immersive, hands-on experience collaborating within Cognizant's innovative Digital Experience Service Line.
  - **Tech Stacks Used:** HTML, CSS, Java, MySQL, Maven, Spring MVC with Spring Boot
  - Built a dynamic web application for online college admission management with student application and seat allotment features using **JSP, MySQL,** and **Spring Boot.**
 
