@@ -65,6 +65,8 @@
 
 ## PROFILES
 
+- [Articles](https://auth.geeksforgeeks.org/user/sushant_bagul/articles)
+  - Explore my collection of tech articles, all crafted by me, exclusively on GeeksforGeeks.
 - [Credly](https://www.credly.com/users/sushant-bagul)
   - Here you can see the digital badges I've earned for my skills and achievements.
 - [Leetcode](https://leetcode.com/sush_at_leetcode/)
