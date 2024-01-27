@@ -73,12 +73,10 @@
   - Microsoft's training platform where I've completed several learning paths and modules.
 - [Trailhead](https://trailblazer.me/id/sushant-bagul)
   - My Salesforce learning journey.
-<!--
- - [Leetcode](https://leetcode.com/sush_at_leetcode/)
+<!-- - [Leetcode](https://leetcode.com/sush_at_leetcode/)
   - My solutions to various coding problems.
 - [GeeksforGeeks](https://auth.geeksforgeeks.org/user/sush_at_gfg/practice)
-  - Practice problems and learning resources I've used.Text 
--->
+  - Practice problems and learning resources I've used.-->
 
 
 ## ACHIEVEMENTS
