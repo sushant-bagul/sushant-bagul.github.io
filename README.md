@@ -65,14 +65,16 @@
 
 ## PROFILES
 
-- [Articles](https://auth.geeksforgeeks.org/user/sushant_bagul/articles)
+- [Articles](https://docs.google.com/spreadsheets/d/17fjPw3R6dTDAWE34ndLLOHFS-8OvNCVrqE53b1Jfx-M/edit?usp=sharing) 
   - Explore my collection of tech articles, all crafted by me, exclusively on GeeksforGeeks.
 - [Credly](https://www.credly.com/users/sushant-bagul)
   - Here you can see the digital badges I've earned for my skills and achievements.
-- [Leetcode](https://leetcode.com/sush_at_leetcode/)
+<!--
+ - [Leetcode](https://leetcode.com/sush_at_leetcode/)
   - My solutions to various coding problems.
 - [GeeksforGeeks](https://auth.geeksforgeeks.org/user/sush_at_gfg/practice)
-  - Practice problems and learning resources I've used.
+  - Practice problems and learning resources I've used.Text 
+-->
 - [Microsoft Learn](https://docs.microsoft.com/en-us/users/sb-4405/)
   - Microsoft's training platform where I've completed several learning paths and modules.
 - [Trailhead](https://trailblazer.me/id/sushant-bagul)
