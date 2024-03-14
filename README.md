@@ -55,6 +55,7 @@
   - Developed an automated system to track and display my GeeksforGeeks articles, eliminating barriers for viewers by providing seamless access to my content.
   - Created a custom API for retrieving article data, enhancing **accessibility** and usability.
   - Successfully addressed the inconvenience of **authentication prompts** when sharing my profile link.
+  - [Live site here](https://proud-river-0c8b65b00.4.azurestaticapps.net/)
 
 - [**HemoCare**](https://github.com/Sushant1209/hemocare) | JSP, MySQL, Spring Boot
   - The application streamlines blood donation processes by connecting medical authorities with blood donors during donation camps.
