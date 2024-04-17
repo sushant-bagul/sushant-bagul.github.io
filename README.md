@@ -51,7 +51,7 @@
 
 ## PROJECTS
 
-- [**GeekWords: My World of Words**](https://proud-river-0c8b65b00.4.azurestaticapps.net/) | Python, HTML, CSS, JavaScript, Azure
+- [**GeekWords: My World of Words**](https://proud-river-0c8b65b00.4.azurestaticapps.net/) | HTML, CSS, JavaScript, Python, MongoDB, Spring Boot, Azure
   - Developed an automated system to track and display my GeeksforGeeks articles, eliminating barriers for viewers by providing seamless access to my content.
   - Created a custom API for retrieving article data, enhancing **accessibility** and usability.
   - Successfully addressed the inconvenience of **authentication prompts** when sharing my profile link.
@@ -75,7 +75,7 @@
 
 ## PROFILES
 
-- [Articles](https://docs.google.com/spreadsheets/d/17fjPw3R6dTDAWE34ndLLOHFS-8OvNCVrqE53b1Jfx-M/edit?usp=sharing) 
+- [Articles](https://geekwords.pages.dev/) 
   - Explore my collection of tech articles, all crafted by me, exclusively on GeeksforGeeks.
 - [Credly](https://www.credly.com/users/sushant-bagul)
   - Here you can see the digital badges I've earned for my skills and achievements.
