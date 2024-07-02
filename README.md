@@ -75,7 +75,8 @@
   - Converts input **text into speech** using the pyttsx3 library in **Python.**
 
 ## PROFILES
-
+- [Blog](https://hashnode.com/@sushantbagul) 
+  - Explore my collection of tech articles, all crafted by me, exclusively on Hashnode.
 - [Articles](https://geekwords.pages.dev/) 
   - Explore my collection of tech articles, all crafted by me, exclusively on GeeksforGeeks.
 - [Credly](https://www.credly.com/users/sushant-bagul)
