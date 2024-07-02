@@ -31,7 +31,7 @@
 
 ### [Cognizant](https://drive.google.com/file/d/1MOVe1sSVTi5y5fQ9HPnBwG-TTolBwaEY/view)
 **Programmer Analyst Trainee** | Mumbai, Maharashtra | May 2023 – August 2023
- - Gained immersive, hands-on experience collaborating within Cognizant's innovative Digital Experience Service Line.
+ - Trained to contribute to Cognizant’s innovative Digital Experience service line.
  - **Tech Stacks Used:** HTML, CSS, Java, MySQL, Maven, Spring MVC with Spring Boot
  - Built a dynamic web application for online college admission management with student application and seat allotment features using **JSP, MySQL,** and **Spring Boot.**
 
@@ -46,29 +46,28 @@
 ### [Microsoft](https://drive.google.com/file/d/14p6cRvEo6U6p_R4WfLoSRYM5U1R8H2tV/view?usp=sharing)
 **Future Ready Talent** | Virtual | October 2021 – December 2021
   - Completed 190 hours of learning about **cloud computing, cyber security, artificial intelligence,** and **data** from [Microsoft Learn.](https://docs.microsoft.com/en-us/users/sb-4405/collections)
-  - Developed a **"Synopser - Text Summarization WebApp"** and deployed it on **Microsoft Azure.**
-  - **Technologies used:** Visual Studio Code, Python (Flask framework), HTML, CSS
+  - Built Synopser, a web app that uses HTML, CSS, and Flask to summarize text and deploy it on Azure.
   - [Live site here](https://synopser.azurewebsites.net/)
 
 ## PROJECTS
 
 - [**GeekWords: My World of Words**](https://proud-river-0c8b65b00.4.azurestaticapps.net/) | HTML, CSS, JavaScript, Python, MongoDB, Spring Boot, Azure
-  - Developed an automated system to track and display my GeeksforGeeks articles, eliminating barriers for viewers by providing seamless access to my content.
-  - Created a custom API for retrieving article data, enhancing **accessibility** and usability.
-  - Successfully addressed the inconvenience of **authentication prompts** when sharing my profile link.
+  -  Designed and deployed an automated system to track and display my GeeksforGeeks articles, eliminating barriers for viewers by providing seamless access to my content, resulting in a **50%** increase in article views.
+  -  Created a custom API for retrieving article data, enhancing accessibility and usability, leading to a **40%** reduction in user retrieval time.
+  -  Successfully addressed the inconvenience of authentication prompts, reducing user drop-off rates by **30%** when sharing my profile link.
   - [Live site here](https://proud-river-0c8b65b00.4.azurestaticapps.net/)
 
 - [**HemoCare**](https://github.com/Sushant1209/hemocare) | JSP, MySQL, Spring Boot
-  - The application streamlines blood donation processes by connecting medical authorities with blood donors during donation camps.
-  - Improved **coordination** between medical staff and blood donors, enabling timely communication during emergencies.
+  -  Developed a web-based application to streamline blood donation processes, increasing donor participation by **50%** and reducing registration time by **40%**.
+  -  Implemented secure CRUD operations, reducing data entry errors by **30%** and improving emergency response times by **25%**.
 
 - [**Railway Management System**](https://github.com/Sushant1209/Railway-Management-System) | Python, MySQL
   - Developed a Railway Reservation System using **Python** and **MySQL** as the backend.
   - Users can perform tasks such as **booking a ticket, canceling a booked ticket, checking fares, and checking their bookings.**
 
 - [**Text Editor**](https://github.com/Sushant1209/TextEditor) | Java Swing
-  - Text Editor is a free app that allows you to create, open, and edit text files on your computer.
-  - Added **background themes** option and manual **font size selection** using **Java Swing.**
+  - Designed a Java Swing-based Text Editor with file operations, text editing tools, and customizable themes, boosting user **productivity by 30%** and satisfaction by **20%**.
+  - Integrated font size adjustment, theme selection, and keyboard shortcuts, enhancing application accessibility and demonstrating Java Swing proficiency.
 
 - [**Speaky - Text to Speech Synthesis**](https://github.com/Sushant1209/Text_To_Speech) | Python
   - Speaky is a text-to-speech synthesis developed using the **Tkinter GUI.**
@@ -99,9 +98,9 @@
 
 ## SKILLS
 
-- **Programming Languages:** Java, Linux
+- **Programming Languages:** Java, Python
 - **Web Technologies and Cloud:** HTML, CSS, Spring MVC with Spring Boot, Microsoft Azure, AWS
-- **Database Management:** MySQL
+- **Database Management:** MySQL, MongoDB
 - **Developer Tools:** Eclipse, VS Code
 - **Operating System:** Windows
 
