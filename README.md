@@ -52,13 +52,13 @@
 ## PROJECTS
 
 - [**GeekWords: My World of Words**](https://proud-river-0c8b65b00.4.azurestaticapps.net/) | HTML, CSS, JavaScript, Python, MongoDB, Spring Boot, Azure
-  -  Designed and deployed an automated system to track and display my GeeksforGeeks articles, eliminating barriers for viewers by providing seamless access to my content, resulting in a **50%** increase in article views.
-  -  Created a custom API for retrieving article data, enhancing accessibility and usability, leading to a **40%** reduction in user retrieval time.
+  -  Designed and deployed an automated system to track and display my GeeksforGeeks articles, eliminating barriers for viewers by providing seamless access to my content, resulting in a **50% increase** in article views.
+  -  Created a custom API for retrieving article data, enhancing accessibility and usability, leading to a **40% reduction** in user retrieval time.
   -  Successfully addressed the inconvenience of authentication prompts, reducing user drop-off rates by **30%** when sharing my profile link.
   - [Live site here](https://proud-river-0c8b65b00.4.azurestaticapps.net/)
 
 - [**HemoCare**](https://github.com/Sushant1209/hemocare) | JSP, MySQL, Spring Boot
-  -  Developed a web-based application to streamline blood donation processes, increasing donor participation by **50%** and reducing registration time by **40%**.
+  -  Developed a web-based application to streamline blood donation processes, increasing donor **participation by 50%** and reducing registration time by **40%**.
   -  Implemented secure CRUD operations, reducing data entry errors by **30%** and improving emergency response times by **25%**.
 
 - [**Railway Management System**](https://github.com/Sushant1209/Railway-Management-System) | Python, MySQL
