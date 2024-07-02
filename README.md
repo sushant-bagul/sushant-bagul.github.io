@@ -2,6 +2,13 @@
 
 ## EDUCATION
 
+- **Master of Technology in Computer Engineering (with specialization in Network Infrastructure Management Systems)**
+  <br>
+  Veermata Jijabai Technological Institute (VJTI), Mumbai
+  <br>
+  (August 2023 -- June 2025)
+  - CPI: **7.13**
+  
 - **Bachelor of Engineering in Information Technology**
   <br>
    Sinhgad Institute of Technology, Lonavala
