@@ -79,7 +79,7 @@
 - [Articles](https://geekwords.pages.dev/) 
   - Explore my collection of tech articles, all crafted by me, exclusively on GeeksforGeeks.
 - [Credly](https://www.credly.com/users/sushant-bagul)
-  - Here you can see the digital badges I've earned for my skills and achievements.
+  - Here you can see the digital badges of my certification that I have earned from Azure, GitHub and AWS.
 - [Microsoft Learn](https://learn.microsoft.com/en-us/users/sb-4405/transcript/dz31jfqj8pewmgz)
   - Microsoft's training platform where I've completed several learning paths and modules.
 - [Trailhead](https://trailblazer.me/id/sushant-bagul)
