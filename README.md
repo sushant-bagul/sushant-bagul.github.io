@@ -7,7 +7,7 @@
   Veermata Jijabai Technological Institute (VJTI), Mumbai
   <br>
   (August 2023 -- June 2025)
-  - CPI: **7.13**
+  - CPI: **7.77**
   
 - **Bachelor of Engineering in Information Technology**
   <br>
