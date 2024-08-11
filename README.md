@@ -47,15 +47,14 @@
 **Future Ready Talent** | Virtual | October 2021 – December 2021
   - Completed 190 hours of learning about **cloud computing, cyber security, artificial intelligence,** and **data** from [Microsoft Learn.](https://docs.microsoft.com/en-us/users/sb-4405/collections)
   - Built Synopser, a web app that uses HTML, CSS, and Flask to summarize text and deploy it on Azure.
-  - [Live site here](https://synopser.azurewebsites.net/)
+  - [GitHub](https://github.com/Sushant1209/Synopser-Text_Summarization)
 
 ## PROJECTS
 
-- [**GeekWords: My World of Words**](https://proud-river-0c8b65b00.4.azurestaticapps.net/) | HTML, CSS, JavaScript, Python, MongoDB, Spring Boot, Azure
+- [**GeekWords: My World of Words**](https://github.com/Sushant1209/GeekWords) | HTML, CSS, JavaScript, Python, Cosmos DB, Spring Boot, Azure
   -  Designed and deployed an automated system to track and display my GeeksforGeeks articles, eliminating barriers for viewers by providing seamless access to my content, resulting in a **50% increase** in article views.
   -  Created a custom API for retrieving article data, enhancing accessibility and usability, leading to a **40% reduction** in user retrieval time.
   -  Successfully addressed the inconvenience of authentication prompts, reducing user drop-off rates by **30%** when sharing my profile link.
-  - [Live site here](https://proud-river-0c8b65b00.4.azurestaticapps.net/)
 
 - [**HemoCare**](https://github.com/Sushant1209/hemocare) | JSP, MySQL, Spring Boot
   -  Developed a web-based application to streamline blood donation processes, increasing donor **participation by 50%** and reducing registration time by **40%**.
@@ -76,8 +75,6 @@
 ## PROFILES
 - [Blog](https://hashnode.com/@sushantbagul) 
   - Explore my collection of tech articles, all crafted by me, exclusively on Hashnode.
-- [Articles](https://geekwords.pages.dev/) 
-  - Explore my collection of tech articles, all crafted by me, exclusively on GeeksforGeeks.
 - [Credly](https://www.credly.com/users/sushant-bagul)
   - Here you can see the digital badges of my certification that I have earned from Azure, GitHub and AWS.
 - [Microsoft Learn](https://learn.microsoft.com/en-us/users/sb-4405/transcript/dz31jfqj8pewmgz)
@@ -102,7 +99,6 @@
 - **Web Technologies and Cloud:** HTML, CSS, Spring MVC with Spring Boot, Microsoft Azure, AWS
 - **Database Management:** MySQL, MongoDB
 - **Developer Tools:** Eclipse, VS Code
-- **Operating System:** Windows
 
 
 
