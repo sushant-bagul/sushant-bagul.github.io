@@ -7,7 +7,7 @@
   Veermata Jijabai Technological Institute (VJTI), Mumbai
   <br>
   (August 2023 -- June 2025)
-  - CPI: **7.77**
+  - CPI: **8.08**
   
 - **Bachelor of Engineering in Information Technology**
   <br>
@@ -51,6 +51,11 @@
 
 ## PROJECTS
 
+- [**Cloud Resume API with Azure**](https://github.com/Sushant1209/Azure-Resume-API-Challenge) | Azure Functions, Azure CosmosDB, Python, GitHub Actions  
+  - Developed a **serverless Resume API** using Azure Functions and CosmosDB, enabling real-time access to structured JSON resume data.  
+  - Implemented a **dynamic view counter** to track API visits, enhancing engagement tracking.  
+  - Automated deployment using **GitHub Actions**, ensuring seamless **CI/CD integration** with automatic builds and deployments, improving development efficiency.  
+
 - [**GeekWords: My World of Words**](https://github.com/Sushant1209/GeekWords) | HTML, CSS, JavaScript, Python, Cosmos DB, Spring Boot, Azure
   -  Designed and deployed an automated system to track and display my GeeksforGeeks articles, eliminating barriers for viewers by providing seamless access to my content, resulting in a **50% increase** in article views.
   -  Created a custom API for retrieving article data, enhancing accessibility and usability, leading to a **40% reduction** in user retrieval time.
@@ -83,6 +88,9 @@
   - My Salesforce learning journey.
 
 ## ACHIEVEMENTS
+
+- **[AWS Community Builder – Cloud Operations](https://aws.amazon.com/developer/community/community-builders/community-builders-directory/) | 2025**  
+  - Recognized by AWS for contributions to the cloud computing community.
 
 - [Salesforce Shaolin](https://drive.google.com/file/d/1mwXmE6ZlV8f2ksajnxvLgfLsAJ5U3qWn/view) 
   - Won the **"Salesforce Shaolin"** title through the ReCogNurize - 2.0 Challenge from Cognizant.
