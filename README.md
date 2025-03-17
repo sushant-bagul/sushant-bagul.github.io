@@ -89,8 +89,8 @@
 
 ## ACHIEVEMENTS
 
-- **[AWS Community Builder – Cloud Operations](https://aws.amazon.com/developer/community/community-builders/community-builders-directory/) | 2025**  
-  - Recognized by AWS for contributions to the cloud computing community.
+- [AWS Community Builder – Cloud Operations](https://aws.amazon.com/developer/community/community-builders/community-builders-directory/) | 2025  
+  - Selected and recognized by AWS as a Community Builder in Cloud Operations for contributions to the AWS cloud computing community.
 
 - [Salesforce Shaolin](https://drive.google.com/file/d/1mwXmE6ZlV8f2ksajnxvLgfLsAJ5U3qWn/view) 
   - Won the **"Salesforce Shaolin"** title through the ReCogNurize - 2.0 Challenge from Cognizant.
